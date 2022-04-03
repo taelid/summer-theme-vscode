@@ -25,3 +25,5 @@
 <p align="center">
   <img alt="preview" src="https://raw.githubusercontent.com/taelid/summer-theme-vscode/main/preview3.png" width="90%">
 </p>
+
+This is my first extension, please let me know if there are any issues!
