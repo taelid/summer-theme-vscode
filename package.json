@@ -5,7 +5,7 @@
   "description": "Sunset to sunrise, a summer inspired dark theme.",
   "publisher": "taelid",
   "license": "MIT",
-  "icon": "logo.png",
+  "icon": "sunset.png",
   "version": "0.0.3",
   "engines": {
     "vscode": "^1.66.0"
