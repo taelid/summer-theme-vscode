@@ -4,7 +4,11 @@
 
 ---
 
-## Installation Guide
+### Sleek summer inspired theme designed to be pleasant on the eyes and comfortable for long sessions. Syntax is colored to be quickly recognizable and easy to read. Tangerine accents add a touch of tasteful color to your editor. I hope you enjoy it as much as I do!
+
+---
+
+> ## Installation Guide
 
 1. Open the **Extensions** panel in VSCode.
 2. Search for `Summer Theme` & click **Install**
