@@ -6,7 +6,7 @@
   "publisher": "taelid",
   "license": "MIT",
   "icon": "logo.png",
-  "version": "0.0.9",
+  "version": "0.1",
   "engines": {
     "vscode": "^1.66.0"
   },
