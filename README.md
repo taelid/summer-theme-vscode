@@ -1,13 +1,7 @@
-# README
-## This is the README for your extension "summer-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+## Installation Guide
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+1. Open the **Extensions** panel in VSCode.
+2. Search for `Summer Theme` & click **Install**
+3. Open the **Command Palette** with `Ctrl+Shift+P` or `⇧⌘P`
+4. Select **Preferences: Color Theme** and choose `Summer Theme`
+5. That's it! Rate the theme if you like it!

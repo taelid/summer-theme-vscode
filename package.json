@@ -1,6 +1,6 @@
 {
   "name": "summer-theme",
-  "author": "Tayyab Khalid",
+  "author": "Tayyab Khalid <tayyab.khalid7@hotmail.com>",
   "displayName": "Summer Theme",
   "description": "Sunset to sunrise, a summer inspired dark theme.",
   "publisher": "taelid",
@@ -13,13 +13,29 @@
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "dark",
+    "summer",
+    "warm",
+    "vscode",
+    "minimal",
+    "material"
+  ],
   "contributes": {
     "themes": [
       {
         "label": "Summer",
         "uiTheme": "vs-dark",
-        "path": "./themes/Summer-color-theme.json"
+        "path": "./themes/summer-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/taelid/summer-theme-vscode"
+  },
+  "bugs": {
+    "url": "https://github.com/taelid/summer-theme-vscode/issues"
   }
 }
