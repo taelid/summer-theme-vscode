@@ -24,4 +24,10 @@
 
 ---
 
+## License
+
+[MIT License](./LICENSE)
+
+---
+
 <p align="center">This is my first extension, please let me know if there are any issues!</p>
