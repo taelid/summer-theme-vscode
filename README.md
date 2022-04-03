@@ -1,9 +1,3 @@
-<p align="center">
-  <img alt="preview" src="https://raw.githubusercontent.com/taelid/summer-theme-vscode/main/logo.png" width="90%">
-</p>
-
----
-
 ## Installation Guide
 
 1. Open the **Extensions** panel in VSCode.
