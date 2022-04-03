@@ -1897,7 +1897,7 @@
     "terminal.ansiMagenta": "#d33876",
     "terminal.ansiRed": "#f94144",
     "terminal.ansiYellow": "#f9c74f",
-    "breadcrumb.background": "#0e141b",
+    "breadcrumb.background": "#0c0d11",
     "breadcrumb.foreground": "#c0bab1",
     "breadcrumb.focusForeground": "#c0bab1",
     "editorGroupHeader.border": "#0c0d11",
