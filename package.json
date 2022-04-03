@@ -5,7 +5,7 @@
   "description": "Sunset to sunrise, a summer inspired dark theme with a beautiful tangerine accent.",
   "publisher": "taelid",
   "license": "MIT",
-  "icon": "sunset.png",
+  "icon": "logo.png",
   "version": "0.0.9",
   "engines": {
     "vscode": "^1.66.0"

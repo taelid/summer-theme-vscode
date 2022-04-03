@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="preview" src="https://raw.githubusercontent.com/taelid/summer-theme-vscode/main/sunset.png" width="50%">
+  <img alt="preview" src="https://raw.githubusercontent.com/taelid/summer-theme-vscode/main/logo.png" width="50%">
 </p>
 
 ---
