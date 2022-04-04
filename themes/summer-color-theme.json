@@ -1842,7 +1842,7 @@
     "editor.lineHighlightBackground": "#0c0d1176",
     "editor.lineHighlightBorder": "#131516",
     "editorLineNumber.foreground": "#bcbdc124",
-    "editorLineNumber.activeForeground": "#b1b6c0a9",
+    "editorLineNumber.activeForeground": "#c0bab1a9",
     "editorLink.activeForeground": "#2a9d8f",
     "editorIndentGuide.background": "#282828",
     "editorIndentGuide.activeBackground": "#707070",
