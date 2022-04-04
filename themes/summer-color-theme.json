@@ -1793,7 +1793,7 @@
     "statusBarItem.remoteForeground": "#0c0d11",
     "titleBar.activeBackground": "#0c0d11",
     "titleBar.activeForeground": "#c0bab1",
-    "titleBar.inactiveBackground": "#151f28",
+    "titleBar.inactiveBackground": "#1c1e26",
     "titleBar.inactiveForeground": "#c0bab1",
     "titleBar.border": "#00000000",
     "menubar.selectionForeground": "#c0bab1",
