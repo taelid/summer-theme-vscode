@@ -1789,7 +1789,7 @@
     "statusBar.noFolderBackground": "#2a9d8f",
     "statusBar.noFolderForeground": "#0c0d11",
     "statusBar.noFolderBorder": "#c0bab100",
-    "statusBarItem.remoteBackground": "#f4a261",
+    "statusBarItem.remoteBackground": "#e76f51",
     "statusBarItem.remoteForeground": "#0c0d11",
     "titleBar.activeBackground": "#0c0d11",
     "titleBar.activeForeground": "#c0bab1",
