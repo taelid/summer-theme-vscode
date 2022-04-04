@@ -1914,7 +1914,7 @@
     "tab.hoverForeground": "#e76f51",
     "tab.hoverBorder": "#e76f51",
     "scrollbar.shadow": "#16161C",
-    "scrollbarSlider.background": "#25272a",
+    "scrollbarSlider.background": "#bcbdc124",
     "scrollbarSlider.hoverBackground": "#f4a261",
     "scrollbarSlider.activeBackground": "#e76f51",
     "progressBar.background": "#e76f51",
