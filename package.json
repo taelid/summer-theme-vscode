@@ -2,11 +2,11 @@
   "name": "summer-theme",
   "author": "Tayyab Khalid <tayyab.khalid7@hotmail.com>",
   "displayName": "Summer Theme",
-  "description": "Sunset to sunrise, a summer inspired dark theme with a beautiful tangerine accent.",
+  "description": "A summer inspired dark theme with a beautiful tangerine accent.",
   "publisher": "taelid",
   "license": "MIT",
   "icon": "logo.png",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "engines": {
     "vscode": "^1.66.0"
   },

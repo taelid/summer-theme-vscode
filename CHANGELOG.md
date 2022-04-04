@@ -18,3 +18,7 @@ All notable changes to the "summer-theme" extension will be documented in this f
 
 - Updated previews & readme.
 - Improved accent highlights.
+
+## 0.2.7 - [2022-04-04]
+
+- Logo update.
