@@ -6,6 +6,12 @@
 Sleek summer inspired theme designed to be pleasant on the eyes and comfortable for extended sessions. Syntax is colored to be swiftly recognizable and improve readability. Tangerine accents add a touch of tasteful color to your editor.
 </p>
 
+<br>
+
+<p align="center">
+<a href="https://marketplace.visualstudio.com/items?itemName=taelid.summer-theme">VSCode Marketplace</a>
+</p>
+
 ---
 
 <p align="center">
