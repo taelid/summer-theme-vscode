@@ -1,6 +1,6 @@
 # Change Log
 
-All notable changes to the "summer-theme" extension will be documented in this file.
+All **notable** changes to the "summer-theme" extension will be documented in this file.
 
 ## [Unreleased]
 
@@ -23,3 +23,7 @@ All notable changes to the "summer-theme" extension will be documented in this f
 
 - Logo update.
 - Banner update.
+
+## 0.2.8 - [2022-04-04]
+
+- Maintaining theme consistency.
