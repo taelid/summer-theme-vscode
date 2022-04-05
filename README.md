@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-Sleek summer inspired theme designed to be pleasant on the eyes and comfortable for extended sessions. Syntax is colored to be swiftly recognizable and improve readability. Tangerine accents add a touch of tasteful color to your editor. I hope you enjoy it as much as I do!
+Sleek summer inspired theme designed to be pleasant on the eyes and comfortable for extended sessions. Syntax is colored to be swiftly recognizable and improve readability. Tangerine accents add a touch of tasteful color to your editor.
 </p>
 
 ---
@@ -33,4 +33,6 @@ Sleek summer inspired theme designed to be pleasant on the eyes and comfortable 
 
 ---
 
-<p align="center">This is my first extension, please let me know if there are any issues!</p>
+<p align="center">This is my first extension, I hope you enjoy using it, please let me know if there are any issues! </p>
+
+<p align="center"> I'll add a light mode version of the theme if there is a demand for it. 🧡</p>
