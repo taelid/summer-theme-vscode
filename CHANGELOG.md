@@ -27,3 +27,7 @@ All **notable** changes to the "summer-theme" extension will be documented in th
 ## 0.2.8 - [2022-04-04]
 
 - Maintaining theme consistency.
+
+## 0.2.9 - [2022-04-09]
+
+- Lowered VSCode version requirements.
