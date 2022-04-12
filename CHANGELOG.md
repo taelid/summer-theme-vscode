@@ -31,3 +31,7 @@ All **notable** changes to the "summer-theme" extension will be documented in th
 ## 0.2.9 - [2022-04-09]
 
 - Lowered VSCode version requirements.
+
+## 0.3.0 - [2022-04-12]
+
+- Fixed opacity on tooltip widget and other minor theme improvements.
