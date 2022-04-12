@@ -35,3 +35,7 @@ All **notable** changes to the "summer-theme" extension will be documented in th
 ## 0.3.0 - [2022-04-12]
 
 - Fixed opacity on tooltip widget and other minor theme improvements.
+
+## 0.3.1 - [2022-04-12]
+
+- Peek view overhaul and improved consistency of theme throughout.
