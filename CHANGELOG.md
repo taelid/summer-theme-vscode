@@ -39,3 +39,7 @@ All **notable** changes to the "summer-theme" extension will be documented in th
 ## 0.3.1 - [2022-04-12]
 
 - Peek view overhaul and improved consistency of theme throughout.
+
+## 0.3.2 - [2022-10-30]
+
+- Improved visibility of highlights.
